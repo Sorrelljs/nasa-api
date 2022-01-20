@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "huhu",
+      "body": "herr",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "dsfsdfsd",
+      "body": "dsvsdcv",
+      "author": "mario",
+      "id": 6
+    }
+  ]
+}
