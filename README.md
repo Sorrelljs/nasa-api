@@ -1,6 +1,6 @@
 ## Introduction
 
-Spacestagram is a basic react app, that will show a daily space pic. I am using the Nasa API for this.
+Spacestagram is a react app, that will show a daily space pic. I am using the Nasa API for this.
 
 
 
