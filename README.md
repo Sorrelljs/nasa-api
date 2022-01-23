@@ -1,6 +1,6 @@
 ## Introduction
 
-Spacestagram is a react app, that will show a daily space pic. I am using the Nasa API for this. You are able to like the picture (Heart) and see an animation. 
+Spacestagram is a react app, that will show NASA'S daily space picture alongside (Title, Date, Author). I am using the Nasa API for this. You are able to like the picture (Heart) and see an animation. 
 
 <img width="600" alt="Screen Shot 2022-01-23 at 8 44 32 AM" src="https://user-images.githubusercontent.com/56169143/150688774-42838cc6-292f-4414-a739-7dd135b0c429.png">
 
